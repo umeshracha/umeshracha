@@ -1,6 +1,6 @@
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
 
-I’ m Umesh Racha a 30-year-old Software Developer. Born and raised in Hyderabad, I’ve always had a deep curiosity about the world and a passion for coding and becoming a successful developer.
+I’ m **Umesh Racha** a 30-year-old Software Developer. Born and raised in Hyderabad, I’ve always had a deep curiosity about the world and a passion for coding and becoming a successful developer.
 
 I possess over 10 years of expertise in product development and management across Enterprise, Consumer Internet, Media, and Telecom domains. My skill set includes:
 
