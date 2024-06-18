@@ -14,9 +14,9 @@ I possess over 10 years of expertise in product development and management acros
   
 Technically proficient in:
 
-- **Program Language** : C, PHP, Java , ASP.net, Javascript, HTML , CSS, Node Js
-- **Mobile** : Angular , React Native Ionic , Framework 7
-- **Database** : MySql , MongoDb, Redis, NoSql , Galleria Cluster
+- **Program Language** : C, PHP, Java, ASP.net, Javascript, HTML, CSS, Node Js
+- **Mobile** : Angular, React Native, Ionic, Framework 7
+- **Database** : MySql, MongoDb, Redis, NoSql, Galleria Cluster
 - **Design Tool** : Photoshop, Illustrator, Indesign, AfterEffects
 - **Integrations** : Cisco, Nokia, Juniper, Mikrotik, Huawei with OSS/BSS systems and CAS integrations with SMS sytsem for MSO’s
 - **Load Balancer** : HA Proxy, keepalived
