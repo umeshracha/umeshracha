@@ -2,6 +2,14 @@
 
 I’ m Umesh Racha a 30-year-old Software Developer. Born and raised in Hyderabad, I’ve always had a deep curiosity about the world and a passion for coding and becoming a successful developer.
 
+I possess over 10 years of expertise in product development and management across Enterprise, Consumer Internet, Media, and Telecom domains. My skill set includes:
+
+-Product Life Cycle Management
+-Product Development
+-Mobile Product Development
+-Product Roadmap and Strategy Recommendations
+-SASS Product Development
+-Cloud Architecture Design
 
 <!--
 **umeshracha/umeshracha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
