@@ -26,7 +26,9 @@ Technically proficient in:
 I excel in identifying customer pain points and developing strategic solutions, driven by a passion for problem-solving and intellectual curiosity.
 
 Thanks,
+
 **Umesh Racha**
+
 https://iam.umeshracha.com
 <!--
 **umeshracha/umeshracha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
