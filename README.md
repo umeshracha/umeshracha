@@ -21,6 +21,7 @@ Technically proficient in:
 - **Integrations** : Cisco, Nokia, Juniper, Mikrotik, Huawei with OSS/BSS systems and CAS integrations with SMS sytsem for MSO’s
 - **Load Balancer** : HA Proxy, keepalived
 - **Cloud** : Vm Ware, Proxmox, Redhat, CentOs, Ubuntu, Docker, AWS, AZURE, GCloud,Digital Ocean
+- **VCS** : Subversion, Git, Github
 
 I excel in identifying customer pain points and developing strategic solutions, driven by a passion for problem-solving and intellectual curiosity.
 
